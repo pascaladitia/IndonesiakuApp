@@ -1,5 +1,5 @@
 # IndonesiakuApp
-Aplikasi android dengan Local API With MVVM
+Aplikasi android dengan Local API & MVVM
 
 Fitur :
 1.Get data from API Batik Kita
